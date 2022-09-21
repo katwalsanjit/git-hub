@@ -2210,3 +2210,7 @@ font-size: 17px;}
 	top: inherit;
 	bottom: 10px;
 }
+#my_commit{
+	position: inherit;
+	left: 10px;
+}
